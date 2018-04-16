@@ -1,0 +1,8 @@
+C:\workspace\PdfKeywordLookup\Models\bin\Debug\netcoreapp2.0\Models.deps.json
+C:\workspace\PdfKeywordLookup\Models\bin\Debug\netcoreapp2.0\Models.dll
+C:\workspace\PdfKeywordLookup\Models\bin\Debug\netcoreapp2.0\Models.pdb
+C:\workspace\PdfKeywordLookup\Models\obj\Debug\netcoreapp2.0\Models.csproj.CoreCompileInputs.cache
+C:\workspace\PdfKeywordLookup\Models\obj\Debug\netcoreapp2.0\Models.AssemblyInfoInputs.cache
+C:\workspace\PdfKeywordLookup\Models\obj\Debug\netcoreapp2.0\Models.AssemblyInfo.cs
+C:\workspace\PdfKeywordLookup\Models\obj\Debug\netcoreapp2.0\Models.dll
+C:\workspace\PdfKeywordLookup\Models\obj\Debug\netcoreapp2.0\Models.pdb
