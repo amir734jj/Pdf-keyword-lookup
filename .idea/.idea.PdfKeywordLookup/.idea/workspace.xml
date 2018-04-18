@@ -1,7 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae1f65ac-07f9-47b8-a9b3-1991961c42f0" name="Default" comment="" />
+    <list default="true" id="ae1f65ac-07f9-47b8-a9b3-1991961c42f0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/riderModule.iml" />
+      <change beforePath="$PROJECT_DIR$/Api/Api.csproj" afterPath="$PROJECT_DIR$/Api/Api.csproj" />
+      <change beforePath="$PROJECT_DIR$/Api/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/Api/Controllers/HomeController.cs" />
+      <change beforePath="$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs" afterPath="$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs" />
+      <change beforePath="$PROJECT_DIR$/Api/Program.cs" afterPath="$PROJECT_DIR$/Api/Program.cs" />
+      <change beforePath="$PROJECT_DIR$/Api/Startup.cs" afterPath="$PROJECT_DIR$/Api/Startup.cs" />
+      <change beforePath="$PROJECT_DIR$/Api/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/Api/Views/Home/Index.cshtml" />
+      <change beforePath="$PROJECT_DIR$/Api/appsettings.json" afterPath="$PROJECT_DIR$/Api/appsettings.json" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.deps.json" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.deps.json" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.dll" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.dll" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.pdb" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.pdb" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.runtimeconfig.dev.json" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.runtimeconfig.json" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.runtimeconfig.json" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Models.dll" />
+      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Models.pdb" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.cache" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.AssemblyInfoInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.dll" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.dll" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.pdb" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.pdb" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/project.assets.json" afterPath="$PROJECT_DIR$/Api/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/Api/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/Api/obj/project.packagespec.json" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/DataAccessLayer.csproj" afterPath="$PROJECT_DIR$/DataAccessLayer/DataAccessLayer.csproj" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs" afterPath="$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" afterPath="$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.deps.json" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.deps.json" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/Models.dll" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/Models.pdb" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.cache" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.AssemblyInfoInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.dll" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.dll" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.pdb" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.pdb" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/project.assets.json" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/project.packagespec.json" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/DomainLogic.csproj" afterPath="$PROJECT_DIR$/DomainLogic/DomainLogic.csproj" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/Interfaces/IPdfInfoParser.cs" afterPath="$PROJECT_DIR$/DomainLogic/Interfaces/IPdfInfoParser.cs" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs" afterPath="$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.deps.json" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.deps.json" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.dll" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.dll" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.pdb" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.pdb" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Models.dll" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Models.pdb" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.AssemblyInfoInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.dll" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.dll" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.pdb" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.pdb" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/DomainLogic.csproj.nuget.cache" afterPath="$PROJECT_DIR$/DomainLogic/obj/DomainLogic.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/DomainLogic.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/DomainLogic/obj/DomainLogic.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Domainlogic.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/DomainLogic/obj/Domainlogic.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/project.assets.json" afterPath="$PROJECT_DIR$/DomainLogic/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/DomainLogic/obj/project.packagespec.json" />
+      <change beforePath="$PROJECT_DIR$/Models/Models.csproj" afterPath="$PROJECT_DIR$/Models/Models.csproj" />
+      <change beforePath="$PROJECT_DIR$/Models/PdfInfo.cs" afterPath="$PROJECT_DIR$/Models/Models/PdfInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.deps.json" afterPath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.deps.json" />
+      <change beforePath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.dll" />
+      <change beforePath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.pdb" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfoInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.dll" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.pdb" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.cache" afterPath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/project.assets.json" afterPath="$PROJECT_DIR$/Models/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/Models/obj/project.packagespec.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,19 +97,198 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <marker date="1523888080296" expanded="false" signature="6:255" ph="..." />
+                <marker date="1523888080296" expanded="true" signature="297:721" ph="{...}" />
+                <marker date="1523888080296" expanded="true" signature="350:408" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PdfInfoParser.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="61" column="34" lean-forward="false" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+              <folding>
+                <marker date="1524022199286" expanded="false" signature="6:226" ph="..." />
+                <marker date="1524022199286" expanded="true" signature="298:2019" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="586:668" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="711:1417" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="886:986" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="1060:1406" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="1470:1554" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="1590:1662" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="1705:1783" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="1819:1894" ph="{...}" />
+                <marker date="1524022199286" expanded="true" signature="1940:2013" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeywordProfile.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/Profiles/KeywordProfile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <marker date="1524019080560" expanded="false" signature="6:62" ph="..." />
+                <marker date="1524019080560" expanded="true" signature="132:288" ph="{...}" />
+                <marker date="1524019080560" expanded="true" signature="170:282" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PdfInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/Models/PdfInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="22" />
+              <folding>
+                <marker date="1524058687281" expanded="false" signature="6:76" ph="..." />
+                <marker date="1524058687281" expanded="true" signature="128:433" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Keyword.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/RawModels/Keyword.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1524020068017" expanded="true" signature="86:203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PdfInfoProfile.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/Profiles/PdfInfoProfile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1524016511391" expanded="false" signature="6:81" ph="..." />
+                <marker date="1524016511391" expanded="true" signature="151:307" ph="{...}" />
+                <marker date="1524016511391" expanded="true" signature="189:301" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EntityDbContext.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataAccessLayer/EntityDbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+              <folding>
+                <marker date="1524067114500" expanded="false" signature="6:214" ph="..." />
+                <marker date="1524067114500" expanded="true" signature="241:1514" ph="{...}" />
+                <marker date="1524067114500" expanded="true" signature="294:1512" ph="{...}" />
+                <marker date="1524067114500" expanded="true" signature="482:687" ph="/// Constructor that will be called by startup.cs ... " />
+                <marker date="1524067114500" expanded="true" signature="815:923" ph="{...}" />
+                <marker date="1524067114500" expanded="true" signature="1018:1106" ph="{...}" />
+                <marker date="1524067114500" expanded="true" signature="1190:1506" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Keyword.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/Models/Keyword.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <marker date="1524019059424" expanded="true" signature="50:141" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RawPdfInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/RawModels/RawPdfInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding>
+                <marker date="1524058695096" expanded="false" signature="6:97" ph="..." />
+                <marker date="1524058695096" expanded="true" signature="155:500" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PdfInfoDataAccessLayer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding>
+                <marker date="1524058313625" expanded="false" signature="6:194" ph="..." />
+                <marker date="1524058313625" expanded="true" signature="289:1687" ph="{...}" />
+                <marker date="1524058313625" expanded="true" signature="479:563" ph="{...}" />
+                <marker date="1524058313625" expanded="true" signature="599:692" ph="{...}" />
+                <marker date="1524058313625" expanded="true" signature="735:892" ph="{...}" />
+                <marker date="1524058313625" expanded="true" signature="928:1190" ph="{...}" />
+                <marker date="1524058313625" expanded="true" signature="1243:1529" ph="{...}" />
+                <marker date="1524058313625" expanded="true" signature="1575:1681" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contac</find>
+      <find>swaggerui</find>
+      <find>servi</find>
+      <find>adda</find>
+      <find>structure</find>
+      <find>addm</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Api/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/PdfInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DomainLogic/Interfaces/IPdfInfoParser.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/RawModels/RawPdfInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4520E90-02D3-43D3-950F-8A676F5A11D1/06/4b26bfaa/DbContextOptionsBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0C5060E1-8791-4F94-BBD4-97FF4F1FDA52/61/7aa540f1/ExecutionContextSwitcher.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0C5060E1-8791-4F94-BBD4-97FF4F1FDA52/2b/47c14558/InvalidCastException.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Models/Profiles/KeywordProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DomainLogic/Interfaces/IPdfInfoParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Profiles/PdfInfoProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/RawModels/Keyword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Api/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Models/Keyword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0C5060E1-8791-4F94-BBD4-97FF4F1FDA52/55/66f25ecc/String.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7D759CA-00F6-4902-ADEC-54291F5BD2C3/44/b798d18e/BsonValue.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7D759CA-00F6-4902-ADEC-54291F5BD2C3/5b/8a6c68e4/LiteCollection`1.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Api/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4520E90-02D3-43D3-950F-8A676F5A11D1/24/af22dcd7/DbContextOptions`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataAccessLayer/EntityDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4520E90-02D3-43D3-950F-8A676F5A11D1/31/b566e243/DbContext.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Models/PdfInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -31,20 +297,32 @@
         <option value="$PROJECT_DIR$/Domainlogic/Program.cs" />
         <option value="$PROJECT_DIR$/Models/Class1.cs" />
         <option value="$PROJECT_DIR$/Domainlogic/Interfaces/IPdfInfoParser.cs" />
-        <option value="$PROJECT_DIR$/Models/PdfInfo.cs" />
         <option value="$PROJECT_DIR$/CommandLineUtility/Program.cs" />
         <option value="$PROJECT_DIR$/DataAccessLayer/Class1.cs" />
-        <option value="$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs" />
         <option value="$PROJECT_DIR$/Domainlogic/PdfInfoParser.cs" />
-        <option value="$PROJECT_DIR$/Api/appsettings.json" />
-        <option value="$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" />
+        <option value="$PROJECT_DIR$/Api/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/Api/Program.cs" />
         <option value="$PROJECT_DIR$/Api/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/Api/Views/Home/Index.cshtml" />
-        <option value="$PROJECT_DIR$/Api/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/Api/appsettings.json" />
+        <option value="$PROJECT_DIR$/Models/PdfInfo.cs" />
+        <option value="$PROJECT_DIR$/Models/Models/PdfInfoRaw.cs" />
+        <option value="$PROJECT_DIR$/Models/Models/RawPdfInfo.cs" />
+        <option value="$PROJECT_DIR$/Api/Api.csproj" />
+        <option value="$PROJECT_DIR$/Models/Models/Keywork.cs" />
+        <option value="$PROJECT_DIR$/Models/Profiles/PdfInfoProfile.cs" />
+        <option value="$PROJECT_DIR$/Models/Profiles/KeywordProfile.cs" />
+        <option value="$PROJECT_DIR$/Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/Models/Models/Keyword.cs" />
+        <option value="$PROJECT_DIR$/Models/RawModels/Keyword.cs" />
+        <option value="$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs" />
         <option value="$PROJECT_DIR$/DomainLogic/Interfaces/IPdfInfoParser.cs" />
         <option value="$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs" />
-        <option value="$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs" />
-        <option value="$PROJECT_DIR$/Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs" />
+        <option value="$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" />
+        <option value="$PROJECT_DIR$/Models/Models/PdfInfo.cs" />
+        <option value="$PROJECT_DIR$/Models/RawModels/RawPdfInfo.cs" />
+        <option value="$PROJECT_DIR$/DataAccessLayer/EntityDbContext.cs" />
       </list>
     </option>
   </component>
@@ -54,10 +332,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="809" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -81,11 +363,6 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="PdfKeywordLookup (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="PdfKeywordLookup (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Api" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -97,6 +374,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,11 +425,24 @@
       <workItem from="1523848830396" duration="2445000" />
       <workItem from="1523851365566" duration="508000" />
       <workItem from="1523852018780" duration="1757000" />
+      <workItem from="1523885621623" duration="431000" />
+      <workItem from="1523887781582" duration="2456000" />
+      <workItem from="1523909168137" duration="2325000" />
+      <workItem from="1523911630310" duration="389000" />
+      <workItem from="1523912063786" duration="4791000" />
+      <workItem from="1523974215854" duration="833000" />
+      <workItem from="1523984005321" duration="104000" />
+      <workItem from="1523985722340" duration="17000" />
+      <workItem from="1523985742160" duration="15000" />
+      <workItem from="1523993266833" duration="1453000" />
+      <workItem from="1523996964533" duration="10395000" />
+      <workItem from="1524064313083" duration="1903000" />
+      <workItem from="1524091675112" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4710000" />
+    <option name="totallyTimeSpent" value="29830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,28 +454,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="809" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40948275" sideWeight="0.20233051" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40298507" sideWeight="0.22291666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40948275" sideWeight="0.7976695" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41519675" sideWeight="0.8541667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.6921875" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27224576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40298507" sideWeight="0.77708334" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27708334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3595658" sideWeight="0.58402777" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31355932" sideWeight="0.49583334" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971507" sideWeight="0.48055556" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -199,65 +491,175 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Api/Startup.cs</url>
+          <url>file://$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs</url>
           <line>30</line>
-          <properties documentPath="$PROJECT_DIR$/Api/Startup.cs">
+          <properties documentPath="$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" initialLine="27">
             <startOffsets>
-              <startOffset value="879" />
+              <startOffset value="758" />
             </startOffsets>
             <endOffsets>
-              <endOffset value="911" />
+              <endOffset value="818" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs</url>
-          <line>24</line>
-          <properties documentPath="$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs">
-            <startOffsets>
-              <startOffset value="647" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="687" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Api/Startup.cs</url>
-          <line>34</line>
-          <properties documentPath="$PROJECT_DIR$/Api/Startup.cs">
-            <startOffsets>
-              <startOffset value="985" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="1380" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="16" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="_mapper.Map&lt;RawPdfInfo&gt;(pdfInfo)" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>_mapper.Map&lt;RawPdfInfo&gt;(pdfInfo)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Models/RawModels/RawPdfInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <marker date="1524058695096" expanded="false" signature="6:97" ph="..." />
+            <marker date="1524058695096" expanded="true" signature="155:500" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1523888080296" expanded="false" signature="6:255" ph="..." />
+            <marker date="1523888080296" expanded="true" signature="297:721" ph="{...}" />
+            <marker date="1523888080296" expanded="true" signature="350:408" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <marker date="1524022199286" expanded="false" signature="6:226" ph="..." />
+            <marker date="1524022199286" expanded="true" signature="298:2019" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="586:668" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="711:1417" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="886:986" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1060:1406" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1470:1554" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1590:1662" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1705:1783" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1819:1894" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1940:2013" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Models/PdfInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1524058687281" expanded="false" signature="6:76" ph="..." />
+            <marker date="1524058687281" expanded="true" signature="128:433" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="76" column="43" lean-forward="false" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <marker date="1524058313625" expanded="false" signature="6:194" ph="..." />
+            <marker date="1524058313625" expanded="true" signature="289:1687" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="479:563" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="599:692" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="735:892" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="928:1190" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="1243:1529" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="1575:1681" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <marker date="1523852742530" expanded="true" signature="6:176" ph="..." />
-            <marker date="1523852742530" expanded="true" signature="203:1261" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="285:1259" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="447:529" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="624:697" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="786:834" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="934:1005" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="1117:1137" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="1233:1253" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -265,18 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
-          <folding>
-            <marker date="1523853012674" expanded="false" signature="6:364" ph="..." />
-            <marker date="1523853012674" expanded="true" signature="379:2166" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="406:2164" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="530:594" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="775:1732" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="954:1645" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="1001:1378" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="1187:1312" ph="/* _.Assembly(&quot;DomainLogic&quot;); ... */" />
-            <marker date="1523853012674" expanded="true" signature="1920:2158" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="1967:2044" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -284,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -292,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -305,156 +693,255 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Models/PdfInfo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CommandLineUtility/Program.cs" />
     <entry file="file://$PROJECT_DIR$/DomainLogic/DomainLogic.csproj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Api/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1523852091212" expanded="false" signature="6:140" ph="..." />
-            <marker date="1523852091212" expanded="true" signature="167:825" ph="{...}" />
-            <marker date="1523852091212" expanded="true" signature="235:823" ph="{...}" />
-            <marker date="1523852091212" expanded="true" signature="369:454" ph="{...}" />
-            <marker date="1523852091212" expanded="true" signature="497:565" ph="{...}" />
-            <marker date="1523852091212" expanded="true" signature="646:709" ph="{...}" />
-            <marker date="1523852091212" expanded="true" signature="755:817" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Api/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <marker date="1523852272653" expanded="true" signature="58:218" ph="{...}" />
-            <marker date="1523852272653" expanded="true" signature="105:216" ph="{...}" />
-            <marker date="1523852272653" expanded="true" signature="163:210" ph="{...}" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Api/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <marker date="1523852436423" expanded="true" signature="15:75" ph="@..." />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Api.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7D759CA-00F6-4902-ADEC-54291F5BD2C3/44/b798d18e/BsonValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="558" column="6" lean-forward="false" selection-start-line="558" selection-start-column="6" selection-end-line="558" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7D759CA-00F6-4902-ADEC-54291F5BD2C3/5b/8a6c68e4/LiteCollection`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="356" column="6" lean-forward="false" selection-start-line="356" selection-start-column="6" selection-end-line="356" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0C5060E1-8791-4F94-BBD4-97FF4F1FDA52/2b/47c14558/InvalidCastException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/database.db" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0C5060E1-8791-4F94-BBD4-97FF4F1FDA52/61/7aa540f1/ExecutionContextSwitcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4520E90-02D3-43D3-950F-8A676F5A11D1/06/4b26bfaa/DbContextOptionsBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3566">
+          <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0C5060E1-8791-4F94-BBD4-97FF4F1FDA52/55/66f25ecc/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/blog.db" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4520E90-02D3-43D3-950F-8A676F5A11D1/31/b566e243/DbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4456">
+          <caret line="49" column="15" lean-forward="false" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4520E90-02D3-43D3-950F-8A676F5A11D1/24/af22dcd7/DbContextOptions`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="81" column="60" lean-forward="false" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DomainLogic/Interfaces/IPdfInfoParser.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1523852611173" expanded="true" signature="6:92" ph="..." />
-            <marker date="1523852611173" expanded="true" signature="126:299" ph="{...}" />
-            <marker date="1523852611173" expanded="true" signature="164:297" ph="{...}" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="13" column="53" lean-forward="false" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        <state relative-caret-position="795">
+          <caret line="61" column="34" lean-forward="false" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
           <folding>
-            <marker date="1523852652135" expanded="false" signature="6:205" ph="..." />
-            <marker date="1523852652135" expanded="true" signature="228:1569" ph="{...}" />
-            <marker date="1523852652135" expanded="true" signature="278:1567" ph="{...}" />
-            <marker date="1523852652135" expanded="true" signature="566:648" ph="{...}" />
-            <marker date="1523852652135" expanded="true" signature="691:1321" ph="{...}" />
-            <marker date="1523852652135" expanded="true" signature="866:966" ph="{...}" />
-            <marker date="1523852652135" expanded="true" signature="1040:1310" ph="{...}" />
-            <marker date="1523852652135" expanded="true" signature="1364:1442" ph="{...}" />
-            <marker date="1523852652135" expanded="true" signature="1488:1561" ph="{...}" />
+            <marker date="1524022199286" expanded="false" signature="6:226" ph="..." />
+            <marker date="1524022199286" expanded="true" signature="298:2019" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="586:668" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="711:1417" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="886:986" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1060:1406" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1470:1554" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1590:1662" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1705:1783" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1819:1894" ph="{...}" />
+            <marker date="1524022199286" expanded="true" signature="1940:2013" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Profiles/KeywordProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <marker date="1524019080560" expanded="false" signature="6:62" ph="..." />
+            <marker date="1524019080560" expanded="true" signature="132:288" ph="{...}" />
+            <marker date="1524019080560" expanded="true" signature="170:282" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/RawModels/Keyword.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1524020068017" expanded="true" signature="86:203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Models/Keyword.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1524019059424" expanded="true" signature="50:141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Profiles/PdfInfoProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1524016511391" expanded="false" signature="6:81" ph="..." />
+            <marker date="1524016511391" expanded="true" signature="151:307" ph="{...}" />
+            <marker date="1524016511391" expanded="true" signature="189:301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Models/PdfInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <marker date="1524058687281" expanded="false" signature="6:76" ph="..." />
+            <marker date="1524058687281" expanded="true" signature="128:433" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/RawModels/RawPdfInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <marker date="1524058695096" expanded="false" signature="6:97" ph="..." />
+            <marker date="1524058695096" expanded="true" signature="155:500" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Api/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
-            <marker date="1523851383497" expanded="true" signature="6:255" ph="..." />
-            <marker date="1523851383497" expanded="true" signature="270:591" ph="{...}" />
-            <marker date="1523851383497" expanded="true" signature="297:589" ph="{...}" />
-            <marker date="1523851383497" expanded="true" signature="350:408" ph="{...}" />
+            <marker date="1523888080296" expanded="false" signature="6:255" ph="..." />
+            <marker date="1523888080296" expanded="true" signature="297:721" ph="{...}" />
+            <marker date="1523888080296" expanded="true" signature="350:408" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Api/Startup.cs">
+    <entry file="file://$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+        <state relative-caret-position="555">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
-            <marker date="1523853012674" expanded="false" signature="6:364" ph="..." />
-            <marker date="1523853012674" expanded="true" signature="379:2166" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="406:2164" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="530:594" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="775:1732" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="954:1645" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="1001:1378" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="1187:1312" ph="/* _.Assembly(&quot;DomainLogic&quot;); ... */" />
-            <marker date="1523853012674" expanded="true" signature="1920:2158" ph="{...}" />
-            <marker date="1523853012674" expanded="true" signature="1967:2044" ph="{...}" />
+            <marker date="1524058313625" expanded="false" signature="6:194" ph="..." />
+            <marker date="1524058313625" expanded="true" signature="289:1687" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="479:563" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="599:692" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="735:892" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="928:1190" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="1243:1529" ph="{...}" />
+            <marker date="1524058313625" expanded="true" signature="1575:1681" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs">
+    <entry file="file://$PROJECT_DIR$/DataAccessLayer/EntityDbContext.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="25">
+          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <folding>
-            <marker date="1523852742530" expanded="true" signature="6:176" ph="..." />
-            <marker date="1523852742530" expanded="true" signature="203:1261" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="285:1259" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="447:529" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="624:697" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="786:834" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="934:1005" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="1117:1137" ph="{...}" />
-            <marker date="1523852742530" expanded="true" signature="1233:1253" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <marker date="1523850581858" expanded="false" signature="6:92" ph="..." />
-            <marker date="1523850581858" expanded="true" signature="130:342" ph="{...}" />
-            <marker date="1523850581858" expanded="true" signature="177:340" ph="{...}" />
+            <marker date="1524067114500" expanded="false" signature="6:214" ph="..." />
+            <marker date="1524067114500" expanded="true" signature="241:1514" ph="{...}" />
+            <marker date="1524067114500" expanded="true" signature="294:1512" ph="{...}" />
+            <marker date="1524067114500" expanded="true" signature="482:687" ph="/// Constructor that will be called by startup.cs ... " />
+            <marker date="1524067114500" expanded="true" signature="815:923" ph="{...}" />
+            <marker date="1524067114500" expanded="true" signature="1018:1106" ph="{...}" />
+            <marker date="1524067114500" expanded="true" signature="1190:1506" ph="{...}" />
           </folding>
         </state>
       </provider>

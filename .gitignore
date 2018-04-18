@@ -1,0 +1,16 @@
+
+Api/bin/
+
+Api/obj/
+
+Models/bin/
+
+Models/obj/
+
+DomainLogic/obj/
+
+DomainLogic/bin/
+
+DataAccessLayer/bin/
+
+DataAccessLayer/obj/

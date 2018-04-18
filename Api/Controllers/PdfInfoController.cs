@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using DataAccessLayer.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Models;
+using Models.Models;
 
 namespace Api.Controllers
 {
@@ -27,28 +28,30 @@ namespace Api.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public PdfInfo Get(int id)
         {
-            return "value";
+            return _pdfInfoDataAccessLayer.Get(id);
         }
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] PdfInfo pdfInfo)
+        public bool Post([FromBody] PdfInfo pdfInfo)
         {
-            _pdfInfoDataAccessLayer.Save(pdfInfo);
+            return _pdfInfoDataAccessLayer.Save(pdfInfo);
         }
 
         // PUT api/values/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public bool Put(int id, [FromBody] PdfInfo pdfInfo)
         {
+            return _pdfInfoDataAccessLayer.Update(id, pdfInfo);
         }
 
         // DELETE api/values/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public bool Delete(int id)
         {
+            return _pdfInfoDataAccessLayer.Delete(id);
         }
     }
 }

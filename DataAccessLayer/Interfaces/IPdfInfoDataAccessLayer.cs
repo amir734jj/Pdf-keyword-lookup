@@ -2,14 +2,19 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using Models;
+using Models.Models;
 
 namespace DataAccessLayer.Interfaces
 {
     public interface IPdfInfoDataAccessLayer
     {
-        bool Save(PdfInfo pdfInfo);
+        PdfInfo Get(int id);
 
-        IEnumerable<PdfInfo> Query(Expression<Func<PdfInfo, bool>> expr);
+        bool Save(PdfInfo pdfInfo);
+        
+        bool Delete(int id);
+
+        bool Update(int id, PdfInfo pdfInfo);
 
         IEnumerable<PdfInfo> GetAll();
     }
