@@ -6,10 +6,11 @@ using Domainlogic.Interfaces;
 using iTextSharp.text.pdf;
 using iTextSharp.text.pdf.parser;
 using Models;
+using Models.Models;
 
 namespace DomainLogic
 {
-    public class PdfInfoParser : IPdfInfoParser
+    public class PdfInfoParser: IPdfInfoParser
     {
         private readonly IPdfInfoDataAccessLayer _pdfInfoDataAccessLayer;
         
@@ -37,15 +38,30 @@ namespace DomainLogic
             return new PdfInfo
             {
                 Path = path,
-                ImplicitKeywords = reader.Info["Keywords"].Split(ImplicitDelimitater).ToHashSet(),
-                ExplicitKeywords = text.Split(ExplicitDelimitater).ToHashSet(),
+                ImplicitKeywords = reader.Info["Keywords"].Split(ImplicitDelimitater).Select(x => new Keyword { Value = x}).ToHashSet(),
+                ExplicitKeywords = text.Split(ExplicitDelimitater).Select(x => new Keyword { Value = x}).ToHashSet(),
                 VisitedDateTime = DateTime.Now
             };
+        }
+
+        public bool Update(int id, PdfInfo pdfInfo)
+        {
+            return _pdfInfoDataAccessLayer.Update(id, pdfInfo);
+        }
+
+        public PdfInfo Get(int id)
+        {
+            return _pdfInfoDataAccessLayer.Get(id);
         }
 
         public bool Save(PdfInfo pdfInfo)
         {
             return _pdfInfoDataAccessLayer.Save(pdfInfo);
+        }
+
+        public bool Delete(int id)
+        {
+            return _pdfInfoDataAccessLayer.Delete(id);
         }
 
         public IEnumerable<PdfInfo> GetAll()

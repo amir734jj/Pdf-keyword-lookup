@@ -26,11 +26,18 @@
   "frameworks": {
     "netcoreapp2.0": {
       "dependencies": {
+        "AutoMapper": {
+          "target": "Package",
+          "version": "[6.2.2, )"
+        },
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[3.2.0, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
-          "version": "[2.0.0, )",
-          "autoReferenced": true
+          "version": "[2.0.6, )"
         }
       },
       "imports": [
