@@ -14,16 +14,10 @@ namespace DomainLogic
     {
         private readonly IPdfInfoDataAccessLayer _pdfInfoDataAccessLayer;
         
-        private const string ImplicitDelimitater = ";";
-        
-        private const string ExplicitDelimitater = " ";
-
-        public PdfInfoParser(IPdfInfoDataAccessLayer pdfInfoDataAccessLayer)
+        public PdfDomainLogic(IPdfInfoDataAccessLayer pdfInfoDataAccessLayer)
         {
             _pdfInfoDataAccessLayer = pdfInfoDataAccessLayer;
         }
-
-
 
         public bool Update(int id, PdfInfo pdfInfo)
         {

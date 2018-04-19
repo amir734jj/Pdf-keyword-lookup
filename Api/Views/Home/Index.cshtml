@@ -1,16 +1,38 @@
-﻿@using Models.Models
-@model IEnumerable<Models.Models.PdfInfo>
+﻿@model IEnumerable<Models.Models.PdfInfo>
 
 @{
     ViewBag.Title = "title";
-    //Layout = $"_Layout";
+    Layout = $"_Layout";
 }
 
-<h2>title</h2>
+<h2>Pdf Keywork Lookup</h2>
 
-Salam
-
-@foreach (var x in @Model)
-{
-    @x
-}
+<table class="table">
+    <thead>
+    <tr>
+        <th>Path</th>
+        <th>Explicit keyworkds</th>
+        <th>Implict keyworkds</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var pdfInfo in Model)
+    {
+        <tr>
+            <td>@pdfInfo.Path</td>
+            <td>
+                @foreach (var keyword in pdfInfo.ImplicitKeywords)
+                {
+                    <span class="label label-primary">@keyword.Value</span>
+                }
+            </td>
+            <td>
+                @foreach (var keyword in pdfInfo.ExplicitKeywords)
+                {
+                    <span class="label label-primary">@keyword.Value</span>
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

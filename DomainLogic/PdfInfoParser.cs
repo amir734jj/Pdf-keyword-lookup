@@ -11,11 +11,14 @@ namespace DomainLogic
 {
     public class PdfInfoParser: IPdfInfoParser
     {
-        
+        public PdfInfoParser()
+        {
+            
+        }
         
         public IEnumerable<PdfInfo> ParseRange(string path)
         {
-            
+            return DigestPath(path).Select(Parse);
         }
         
         public PdfInfo Parse(string path)
@@ -38,5 +41,12 @@ namespace DomainLogic
                 VisitedDateTime = DateTime.Now
             };
         }
+
+        /// <summary>
+        /// Digest a path and returns all PDF files given path
+        /// </summary>
+        /// <param name="path"></param>
+        /// <returns></returns>
+        private static IEnumerable<string> DigestPath(string path) => System.IO.Directory.GetFiles(path, "*.pdf");
     }
 }

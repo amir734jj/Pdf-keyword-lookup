@@ -6,17 +6,17 @@ namespace Api.Controllers
 {
     public class HomeController : Controller
     {
-        private IPdfInfoParser _pdfInfoParser;
+        private readonly IPdfDomainLogic _pdfDomainLogic;
 
-        public HomeController(IPdfInfoParser pdfInfoParser)
+        public HomeController(IPdfDomainLogic pdfDomainLogic)
         {
-            _pdfInfoParser = pdfInfoParser;
+            _pdfDomainLogic = pdfDomainLogic;
         }
         
         // GET
         public IActionResult Index()
         {
-            return View(_pdfInfoParser.GetAll());
+            return View(_pdfDomainLogic.GetAll());
         }
     }
 }
