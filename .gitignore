@@ -18,3 +18,5 @@ Models/obj/
 Models/bin/
 
 *.sqlite
+
+.idea/
