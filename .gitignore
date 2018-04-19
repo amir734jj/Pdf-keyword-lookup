@@ -16,3 +16,5 @@ DomainLogic/obj/
 Models/obj/
 
 Models/bin/
+
+*.sqlite
