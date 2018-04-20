@@ -1,15 +1,19 @@
 ﻿using System;
-using System.Data.Common;
+using API.Attributes;
+using Api.Extensions;
 using AutoMapper;
 using DataAccessLayer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Newtonsoft.Json;
 using StructureMap;
 using Swashbuckle.AspNetCore.Swagger;
+using Contact = Swashbuckle.AspNetCore.Swagger.Contact;
 
 namespace Api
 {
@@ -17,15 +21,51 @@ namespace Api
     {
         private readonly IConfiguration _configuration;
         
-        public Startup(IConfiguration configuration)
+        private IHostingEnvironment _env { get; }
+        
+        public Startup(IHostingEnvironment env)
         {
-            _configuration = configuration;
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(env.ContentRootPath)
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
+                // This must be last do not change this order unless you understand the 
+                // way variable overwriting occurs
+                .AddEnvironmentVariables();
+
+            _configuration = API.Attributes.Root.SetConfiguration(builder.Build());
+            
+            // hold environment variable
+            _env = env;
         }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public IServiceProvider ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
+            //Enforces a global enforcement policy on authenticating a user
+            services.AddMvc(config =>
+            {
+                // this is used to handle model state error and prevent additional action if model state is invalid
+                config.Filters.Add(typeof(ModelStateValidationActionFilterAttribute));
+
+                // this is used to custom handle business logic and other generic exceptions
+                config.Filters.Add(typeof(ExceptionFilterAttribute));
+                
+                // if environment is localhost, then all anonymous, no token or authentication
+                if (_env.IsLocalHost())
+                {
+                    config.Filters.Add(new AllowAnonymousFilter());
+                }
+                
+            }).AddJsonOptions(x =>
+            {
+                // if environment name is development, then returned json
+                // is formatted (and indented) so it would be more readable
+                if (_env.IsLocalHost())
+                {
+                    x.SerializerSettings.Formatting = Formatting.Indented;
+                }
+            });
             
             services.AddAutoMapper();
             
@@ -92,12 +132,10 @@ namespace Api
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
+            app.UseDeveloperExceptionPage();
 
             app.UseSwagger();
+            
             app.UseCors(x => { x.AllowAnyOrigin(); });
             
             app.UseMvc(routes => { routes.MapRoute("default", "{controller=Home}/{action=Index}"); });

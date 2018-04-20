@@ -2,92 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1f65ac-07f9-47b8-a9b3-1991961c42f0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.PdfKeywordLookup/riderModule.iml" />
-      <change beforePath="$PROJECT_DIR$/Api/Api.csproj" afterPath="$PROJECT_DIR$/Api/Api.csproj" />
-      <change beforePath="$PROJECT_DIR$/Api/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/Api/Controllers/HomeController.cs" />
-      <change beforePath="$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs" afterPath="$PROJECT_DIR$/Api/Controllers/PdfInfoController.cs" />
-      <change beforePath="$PROJECT_DIR$/Api/Program.cs" afterPath="$PROJECT_DIR$/Api/Program.cs" />
-      <change beforePath="$PROJECT_DIR$/Api/Startup.cs" afterPath="$PROJECT_DIR$/Api/Startup.cs" />
-      <change beforePath="$PROJECT_DIR$/Api/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/Api/Views/Home/Index.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Api/appsettings.json" afterPath="$PROJECT_DIR$/Api/appsettings.json" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.deps.json" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.deps.json" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.dll" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.dll" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.pdb" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.pdb" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.runtimeconfig.dev.json" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.runtimeconfig.json" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Api.runtimeconfig.json" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Models.dll" />
-      <change beforePath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/Api/bin/Debug/netcoreapp2.0/Models.pdb" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.cache" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.cache" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.props" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/Api/obj/Api.csproj.nuget.g.targets" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.AssemblyInfo.cs" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.AssemblyInfoInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.csproj.CoreCompileInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.csproj.FileListAbsolute.txt" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.dll" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.dll" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.pdb" afterPath="$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.0/Api.pdb" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/project.assets.json" afterPath="$PROJECT_DIR$/Api/obj/project.assets.json" />
-      <change beforePath="$PROJECT_DIR$/Api/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/Api/obj/project.packagespec.json" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/DataAccessLayer.csproj" afterPath="$PROJECT_DIR$/DataAccessLayer/DataAccessLayer.csproj" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs" afterPath="$PROJECT_DIR$/DataAccessLayer/Interfaces/IPdfInfoDataAccessLayer.cs" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" afterPath="$PROJECT_DIR$/DataAccessLayer/PdfInfoDataAccessLayer.cs" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.deps.json" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.deps.json" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/Models.dll" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/DataAccessLayer/bin/Debug/netcoreapp2.0/Models.pdb" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.cache" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.cache" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.props" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.targets" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.AssemblyInfo.cs" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.AssemblyInfoInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.csproj.CoreCompileInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.csproj.FileListAbsolute.txt" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.dll" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.dll" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.pdb" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/Debug/netcoreapp2.0/DataAccessLayer.pdb" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/project.assets.json" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/project.assets.json" />
-      <change beforePath="$PROJECT_DIR$/DataAccessLayer/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/DataAccessLayer/obj/project.packagespec.json" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/DomainLogic.csproj" afterPath="$PROJECT_DIR$/DomainLogic/DomainLogic.csproj" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/Interfaces/IPdfInfoParser.cs" afterPath="$PROJECT_DIR$/DomainLogic/Interfaces/IPdfInfoParser.cs" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs" afterPath="$PROJECT_DIR$/DomainLogic/PdfInfoParser.cs" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/DataAccessLayer.dll" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/DataAccessLayer.pdb" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.deps.json" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.deps.json" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.dll" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.dll" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.pdb" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Domainlogic.pdb" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Models.dll" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/DomainLogic/bin/Debug/netcoreapp2.0/Models.pdb" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.AssemblyInfo.cs" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.AssemblyInfoInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.csproj.CoreCompileInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.csproj.FileListAbsolute.txt" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.dll" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.dll" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.pdb" afterPath="$PROJECT_DIR$/DomainLogic/obj/Debug/netcoreapp2.0/Domainlogic.pdb" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/DomainLogic.csproj.nuget.cache" afterPath="$PROJECT_DIR$/DomainLogic/obj/DomainLogic.csproj.nuget.cache" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/DomainLogic.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/DomainLogic/obj/DomainLogic.csproj.nuget.g.props" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/Domainlogic.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/DomainLogic/obj/Domainlogic.csproj.nuget.g.targets" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/project.assets.json" afterPath="$PROJECT_DIR$/DomainLogic/obj/project.assets.json" />
-      <change beforePath="$PROJECT_DIR$/DomainLogic/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/DomainLogic/obj/project.packagespec.json" />
-      <change beforePath="$PROJECT_DIR$/Models/Models.csproj" afterPath="$PROJECT_DIR$/Models/Models.csproj" />
-      <change beforePath="$PROJECT_DIR$/Models/PdfInfo.cs" afterPath="$PROJECT_DIR$/Models/Models/PdfInfo.cs" />
-      <change beforePath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.deps.json" afterPath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.deps.json" />
-      <change beforePath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.dll" />
-      <change beforePath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/Models/bin/Debug/netcoreapp2.0/Models.pdb" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfo.cs" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfoInputs.cache" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfoInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.csproj.CoreCompileInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.csproj.FileListAbsolute.txt" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.dll" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.dll" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.pdb" afterPath="$PROJECT_DIR$/Models/obj/Debug/netcoreapp2.0/Models.pdb" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.cache" afterPath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.cache" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.g.props" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/Models/obj/Models.csproj.nuget.g.targets" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/project.assets.json" afterPath="$PROJECT_DIR$/Models/obj/project.assets.json" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/Models/obj/project.packagespec.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -190,11 +105,10 @@
       <file leaf-file-name="EntityDbContext.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataAccessLayer/EntityDbContext.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="195">
+              <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding>
                 <marker date="1524067114500" expanded="false" signature="6:214" ph="..." />
-                <marker date="1524067114500" expanded="true" signature="241:1514" ph="{...}" />
                 <marker date="1524067114500" expanded="true" signature="294:1512" ph="{...}" />
                 <marker date="1524067114500" expanded="true" signature="482:687" ph="/// Constructor that will be called by startup.cs ... " />
                 <marker date="1524067114500" expanded="true" signature="815:923" ph="{...}" />
@@ -332,9 +246,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="809" />
   </component>
@@ -356,6 +269,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -369,7 +283,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -437,12 +350,13 @@
       <workItem from="1523993266833" duration="1453000" />
       <workItem from="1523996964533" duration="10395000" />
       <workItem from="1524064313083" duration="1903000" />
-      <workItem from="1524091675112" duration="8000" />
+      <workItem from="1524091675112" duration="258000" />
+      <workItem from="1524155855235" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29830000" />
+    <option name="totallyTimeSpent" value="30092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -455,17 +369,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40298507" sideWeight="0.22291666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32971507" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41519675" sideWeight="0.8541667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40298507" sideWeight="0.77708334" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27708334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32971507" sideWeight="0.49722221" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23609227" sideWeight="0.7729167" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20972222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -932,11 +845,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataAccessLayer/EntityDbContext.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        <state relative-caret-position="195">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding>
             <marker date="1524067114500" expanded="false" signature="6:214" ph="..." />
-            <marker date="1524067114500" expanded="true" signature="241:1514" ph="{...}" />
             <marker date="1524067114500" expanded="true" signature="294:1512" ph="{...}" />
             <marker date="1524067114500" expanded="true" signature="482:687" ph="/// Constructor that will be called by startup.cs ... " />
             <marker date="1524067114500" expanded="true" signature="815:923" ph="{...}" />

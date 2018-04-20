@@ -1,4 +1,5 @@
-﻿@model IEnumerable<Models.Models.PdfInfo>
+﻿@using Models.ViewModels
+@model IEnumerable<Models.Models.PdfInfo>
 
 @{
     ViewBag.Title = "title";
@@ -20,19 +21,33 @@
     {
         <tr>
             <td>@pdfInfo.Path</td>
-            <td>
-                @foreach (var keyword in pdfInfo.ImplicitKeywords)
-                {
-                    <span class="label label-primary">@keyword.Value</span>
-                }
-            </td>
-            <td>
-                @foreach (var keyword in pdfInfo.ExplicitKeywords)
-                {
-                    <span class="label label-primary">@keyword.Value</span>
-                }
-            </td>
+            @foreach (var keyword in pdfInfo.ImplicitKeywords)
+            {
+                <td>
+                    <span class="label label-primary">@keyword.Value</span>  
+                </td>
+            }
+            
+            @foreach (var keyword in pdfInfo.ExplicitKeywords)
+            {
+                <td>
+                    @keyword
+                    <span class="label label-primary">@keyword.Value</span>    
+                </td>
+            }
         </tr>
     }
     </tbody>
 </table>
+
+<hr />
+
+<div class="row">
+    <div class="col-sm-6">
+        @Html.Partial("Partials/Parse", new PathInput())
+    </div>
+
+    <div class="col-sm-6">
+        @Html.Partial("Partials/ParseRange", new PathInput())
+    </div>
+</div>
